@@ -1,0 +1,4 @@
+node_modules
+dist
+goServer/dist
+Server

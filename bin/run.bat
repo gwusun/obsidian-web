@@ -1,0 +1,1 @@
+web_windows_amd64.exe -p 8000 -o "C:\00-Sync\knowledge-base"
